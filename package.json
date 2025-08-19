@@ -25,6 +25,7 @@
         "extensions": [
           ".rave"
         ],
+        "firstLine": "^\\s*/\\*\\s*-\\*-\\s*crc\\s*-\\*-\\s*\\*/\\s*$",
         "configuration": "./language-configuration.json"
       }
     ],
